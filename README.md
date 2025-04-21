@@ -5,7 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/akshaygojiya/Portfolio?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/akshaygojiya/Portfolio?style=flat-square)
 
-### 🌐 Live Website: [https://akshaygojiya.versal.app](https://akshaygojiya.versal.app)
+### 🌐 Live Website: [https://akshaygojiya.vercel.app](https://akshaygojiya.vercel.app)
 
 ---
 
