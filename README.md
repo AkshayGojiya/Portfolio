@@ -1,11 +1,11 @@
 # 🚀 Akshay Gojiya Portfolio
 
-![GitHub Repo stars](https://img.shields.io/github/stars/akshaygojiya/Portfolio_V5?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/akshaygojiya/Portfolio_V5?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/akshaygojiya/Portfolio_V5?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/akshaygojiya/Portfolio_V5?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/akshaygojiya/Portfolio?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/akshaygojiya/Portfolio?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/akshaygojiya/Portfolio?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/akshaygojiya/Portfolio?style=flat-square)
 
-### 🌐 Live Website: [https://www.aki.my.id](https://www.aki.my.id)
+### 🌐 Live Website: [https://akshaygojiya.versal.app](https://akshaygojiya.versal.app)
 
 ---
 
